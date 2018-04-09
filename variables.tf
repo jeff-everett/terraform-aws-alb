@@ -80,8 +80,8 @@ variable "load_balancer_update_timeout" {
   default     = "10m"
 }
 
-variable "log_enable" {
-  description = "Enable logging"
+variable "logs_enabled" {
+  description = "Enable ALB logging."
   default     = true
 }
 

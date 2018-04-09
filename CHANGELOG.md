@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this
 project adheres to [Semantic Versioning](http://semver.org/).
 
+## [v3.3.0] - 2018-04-09
+
+### Changed
+
+* `logs_enabled` variable makes logging optional. (gracias, @mohsen0 )
+
 ## [v3.2.0] - 2018-03-28
 
 ### Changed
